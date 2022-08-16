@@ -43,7 +43,7 @@ function loadingbooks() {
         async function lod() {
             console.log("pp");
             fetch('./api.json', {
-                method: 'POST', mode: 'no-cors',
+             mode: 'no-cors',
                 headers: {
                     'Content-Type': 'application/json',
                 },
