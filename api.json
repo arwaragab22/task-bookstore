@@ -1,0 +1,73 @@
+[
+  {
+    "url": "./images/book-1.png",
+    "name": "book1",
+    "id": 1,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-2.png",
+    "name": "book2",
+    "id": 2,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-3.png",
+    "name": "book3",
+    "id": 3,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-4.png",
+    "name": "book4",
+    "id": 4,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-5.png",
+    "name": "book5",
+    "id": 5,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-6.png",
+    "name": "book6",
+    "id": 6,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-7.png",
+    "name": "book7",
+    "id": 7,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-8.png",
+    "name": "book8",
+    "id": 8,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-9.png",
+    "name": "book9",
+    "id": 9,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "url": "./images/book-10.png",
+    "name": "book10",
+    "id": 10,
+    "fav": false,
+    "details": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  }
+
+]
